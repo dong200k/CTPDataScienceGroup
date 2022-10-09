@@ -30,7 +30,7 @@
 </p>
 
 #### 7. Data Source: 
-- [link](https://www.kaggle.com/datasets/andrewmvd/data-scientist-jobs)
+- [Data Scientist Jobs](https://www.kaggle.com/datasets/andrewmvd/data-scientist-jobs)
 <p>This dataset contains more than 3900 job listings for data scientist positions, with features such as: Salary Estimate, Location, Company Rating, Job Description and more.
 </p>
 
