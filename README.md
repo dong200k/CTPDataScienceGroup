@@ -9,7 +9,7 @@
 ### 2. Project Title: TBD 
 ### 3. Developers/Group Members:    
 - [Jiale (Jerry) Chen](https://www.linkedin.com/in/jiale-jerry-chen/)
-- [Ryan Mohamed](https://www.linkedin.com/in/dong-huang-chen/)        
+- [Dong Huang Chen](https://www.linkedin.com/in/dong-huang-chen/)        
 - [Ching Kung Lin](https://www.linkedin.com/in/chingkung310/)       
 
 ### 4. Programming Language: Python
