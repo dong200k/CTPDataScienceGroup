@@ -5,8 +5,8 @@
 
 #### [Go To Development Log](#Development-log)
 
-### 1. Team Name: TBD 
-### 2. Project Title: TBD 
+### 1. Team Name: Big Brain Tech 
+### 2. Project Title: Data Science Salary Visualization 
 ### 3. Developers/Group Members:    
 - [Jiale (Jerry) Chen](https://www.linkedin.com/in/jiale-jerry-chen/)
 - [Dong Huang Chen](https://www.linkedin.com/in/dong-huang-chen/)        
