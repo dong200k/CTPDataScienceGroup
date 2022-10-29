@@ -42,4 +42,6 @@
 #### Dissussions
 #### 071022 Meeting
 - Topic: Finishes google doc
-  - [link](https://docs.google.com/document/d/14zOF2lpeaLmrz-pu4IraAosDAAVrIYAjxrhn7c_PFT8/)
+  - [google doc](https://docs.google.com/document/d/14zOF2lpeaLmrz-pu4IraAosDAAVrIYAjxrhn7c_PFT8/)
+  - [google slide](https://docs.google.com/presentation/d/11gw669aT2AzLY3WWwuTBBTWcsNBTskPML51k0TKQSh0/edit#slide=id.g179bd544a9c_0_14)
+  
