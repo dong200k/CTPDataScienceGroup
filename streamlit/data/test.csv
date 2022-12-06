@@ -1,0 +1,117 @@
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors,Easy Apply,role
+Senior Data Scientist,$111K-$181K (Glassdoor est.),"ABOUT HOPPER
+
+At Hopper, we’re on a mission to make booking travel faster, easier, and more transparent. We are leveraging the power that comes from combining massive amounts of data and machine learning to build the world’s fastest-growing travel app -- one that enables our customers to save money and travel more. With over $235M CAD in funding from leading investors in both Canada and the US, Hopper is primed to continue its path toward becoming the go-to way to book travel as the world continues its shift to mobile.
+
+Recognized as the fastest-growing travel app by Forbes and one of the world’s most innovative companies by Fast Company two years in a row, Hopper has been downloaded over 40 million times and has helped travelers plan over 100 million trips and counting. The app has received high praise in the form of mobile accolades such as the Webby Award for Best Travel App of 2019, the Google Play Award for Standout Startup of 2016 and Apple’s App Store Best of 2015.
+
+Take off with us!
+
+THE ROLE
+
+Hopper is looking for a data-savvy individual to join our team as a Data Scientist and lead data-centric product development and complex business intelligence projects within our core air travel business unit. Every day you would draw powerful insights from our real-time feed of billions of flight search results and archives of several trillion data points. To succeed at Hopper you need the talent, passion, and experience to thrive in a highly performing company.
+IN THIS ROLE YOU WILL:
+Frame and conduct complex exploratory analyses needed to deepen our understanding of Hopper users.
+Partner with product, business and strategy teams to leverage this user understanding for product improvements and other initiatives
+Use machine learning and big data tools on tremendously large and complex data sets to enhance our data-driven, personalized travel advice
+Conduct research into various aspects of our business and employ statistical and modeling techniques when appropriate to make recommendations to non-technical stakeholders
+Create advanced dashboards for product experiment tracking and business unit performance analysis using Amplitude and Tableau
+Find effective ways to simplify and communicate analyses to a non-technical audience.
+A PERFECT CANDIDATE HAS:
+A degree in Math, Statistics, Computer Science, Engineering or other quantitative disciplines
+Extremely strong analytical and problem-solving skills
+Proven ability to communicate complex technical work to a non-technical audience
+A strong passion for and extensive experience in conducting empirical research and answering hard questions with data
+Experience with a data visualization tool (Tableau preferred) and project analysis tool such as Amplitude
+Experience with relational databases and SQL, especially Hive
+Experience working with extremely large data sets
+Experience in Pandas, R, SAS or other tools appropriate for large scale data preparation and analysis
+Experience with data mining, machine learning, statistical modeling tools and underlying algorithms
+Proficiency with Unix/Linux environments
+BENEFITS
+
+• Well-funded and proven startup with large ambitions, competitive salary and stock options
+• Dynamic and entrepreneurial team where pushing limits is everyday business
+• 100% employer paid medical, dental, vision, disability and life insurance plans
+• Access to a 401k (US) or Retirement Savings Plan (Canada)",3.5,"Hopper
+3.5","New York, NY","Montreal, Canada",501 to 1000 employees,2007,Company - Private,Travel Agencies,Travel & Tourism,Unknown / Non-Applicable,-1,-1,DS
+"Data Scientist, Product Analytics",$111K-$181K (Glassdoor est.),"At Noom, we use scientifically proven methods to help our users create healthier lifestyles, and manage important conditions like Type-II Diabetes, Obesity, and Hypertension. Our Engineering team is at the forefront of this challenge, solving complex technical and UX problems on our mobile apps that center around habits, behavior, and lifestyle.
+
+We are looking for a Data Scientist to join our Data team and help us ensure that we apply the best approaches to data analysis and research, artificial intelligence, and machine learning.
+
+What You'll Like About Us:
+We work on problems that affect the lives of real people. Our users depend on us to make positive changes to their health and their lives.
+We base our work on scientifically-proven, peer-reviewed methodologies that are designed by medical professionals.
+We are a data-driven company through and through.
+We're a respectful, diverse, and dynamic environment in which Engineering is a first-class citizen, and where you'll be able to work on a variety of interesting problems that affect the lives of real people.
+We offer a generous budget for personal development expenses like training courses, conferences, and books.
+You'll get three weeks' paid vacation and a flexible work policy that is remote- and family-friendly (about 50% of our engineering team is fully remote). We worry about results, not time spent in seats.
+What We'll Like About You:
+You have 4+ years of experience as a Data Scientist or Data Analyst in a similarly-sized organization, with a proven record of analysis and research that positively impacts your team.
+You possess excellent communication skills and the ability to clearly communicate technical concepts to a non-technical audience
+You possess excellent SQL/relational algebra skills, ideally with at least a basic knowledge of how different types of databases (e.g.: column vs row storage) work.
+You have a superior knowledge of statistical analysis methods, such as input selection, logistic and standard regression, etc.
+You are comfortable writing Python code, and have good working knowledge of pandas and numpy. We don't expect you to write production-quality code, but you should have some programming experience.
+You are comfortable with at least ""medium data"" technologies and how to transcend the ""memory bound"" nature of most analytics tools.",4.5,"Noom US
+4.5","New York, NY","New York, NY",1001 to 5000 employees,2008,Company - Private,"Health, Beauty, & Fitness",Consumer Services,Unknown / Non-Applicable,-1,-1,DS
+Data Science Manager,$111K-$181K (Glassdoor est.),"Decode_M
+
+https://www.decode-m.com/
+
+Data Science Manager : Job Description
+
+We’re hiring a Data Science Manager in our New York office to lead Decode_M’s Data Science team in developing new solutions for our clients and advancing the science of momentum through our proprietary product.
+
+This position, based in New York City, requires an interest in managing Decode_M’s data science team, workflow and offerings. It demands excellent organizational skills, a natural curiosity, an eagerness to dive into the deep end, and a hunger to learn and grow while having a blast. Expect to learn a lot about cool companies, new products, and the latest in analytics, research and strategy.
+
+About You
+You have an advanced degree in data science, mathematics, or another highly quantitative field, and are comfortable understanding and utilizing recent academic research in your work.
+You have 3+ years of relevant work experience using applied statistics and/or machine learning. Bonus points if you’ve worked in a consulting, or other client-facing role before
+You have 1+ years of management experience.
+You are fluent in Python and R, as well as a robust numerical computing and data science stack in each language. Not only do you produce readable and well-documented code, but elevate your team’s work through thoughtful code review and mentorship
+You are highly consultative, engaged, and detail-oriented. You see beyond the question you are asked to understand client objectives, and chart a course for long-term success in our relationships
+You are an autodidact, who loves to figure out new solutions to problems by diving deep into StackOverflow, Arxiv.org, or your preferred destination.
+You are curious, inquisitive, proactive, organized, and methodical. You like to use substantiated data to both identify and solve problems, rather than trust your gut alone
+
+
+What You'll Do
+
+Lead a team. Help to set the vision for the Data Science team and follow through on that vision. Be a mentor to a small, close-knit team of data scientists, helping them to develop professionally
+
+Drive New Product Development: Decode_M has developed a proprietary algorithm to quantify the cultural momentum of brands, entities, people and movements. You will steward the development of the algorithm and be part of the product team to bring it to market with new customers
+
+Manage Process. Work across teams and with Decode_M’s leadership to ensure that our work is top notch, deadlines are met, and projects are resourced appropriately. Foster an environment where the team is empowered to do its best work
+
+Build Tools. Use data from social media, online reviews, mainstream media sites, search, web traffic, quantitative research, CRMs or other databases, etc. to uncover intelligence around growth opportunities and business challenges. Build software and/or repeatable processes to scale this work
+
+Grow our Capabilities. Advance our expertise in applying statistics and machine learning to digital trends, CRM data, and quantitative research. Know the state of the field well enough to know when to reach for best-in-class tools and when to design your own solutions",-1,Decode_M,"New York, NY","New York, NY",1 to 50 employees,-1,Unknown,-1,-1,Unknown / Non-Applicable,-1,TRUE,DS
+Data Analyst,$111K-$181K (Glassdoor est.),"Sapphire Digital seeks a dynamic and driven mid-level Data Analyst/QA to join our growing New Jersey team with experience in the healthcare domain. This role will perform in-depth analysis of our internal data management systems to identify, analyze, and interpret trends and/or patterns in order to provide actionable recommendations for data integrity. The Data Analyst/QA will work closely with multiple internal teams to collaborate on different stages of the data lifecycle and assist in developing data quality processes.
+In this position, you'll be responsible for:
+Preparing and conducting analyses and studies, needs assessment, and requirements analysis to align systems and solutions
+Overseing data QA functions to ensure data integrity and accuracy
+Monitoring all production data processes and validation systems
+Performing data investigations, root cause analysis, data profiling, and data lineage activities
+Performing research and provides recommendations for data processes and updates
+Reviewing and analyzes specific data elements for accuracy and quality assurance
+Driving the resolution of the identified data quality problems
+Maintaining documentation as required
+Partnering with BI in the development of reports and presentations
+Maintaining data quality rules, data standards and data governance policies
+Supporting special project work as assigned by the data managers
+Collaborating effectively with cross functional teams including Data, Business Intelligence, Business Applications, and Engineering
+
+You might be a good fit if you have:
+Bachelor's degree (B. A. / B. S.) from four-year college or university; 4+ years related experience and/or training; or equivalent combination of education and experience
+5+ years of experience as a data analyst or in a related field
+Expertise with query languages (SQL) required
+Experience working with large complex datasets including healthcare data such as medical claims, clinical information, demographic data and program activity results
+Exposure with one or more of the following programming languages: SAS, Python, R
+Prior experience working with Healthcare data, or in the Healthcare field preferred
+Experience with data visualization tools and methodologies (Excel and PowerBI)
+Demonstrated experience in analyzing large data sets and relational databases
+Ability to manage time and priorities of multiple projects/tasks
+Displays professionalism and ability to learn quickly
+Extremely detail oriented
+Strong oral and written communication skills
+Ability to collaborate closely with multiple teams across with a wide range of technical backgrounds",3.4,"Sapphire Digital
+3.4","Lyndhurst, NJ","Lyndhurst, NJ",201 to 500 employees,2019,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,"Zocdoc, Healthgrades",-1,DS
